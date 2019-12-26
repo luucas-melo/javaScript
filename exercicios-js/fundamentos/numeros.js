@@ -10,4 +10,8 @@ const prova2 = 6.87
 const total = prova1 * peso1 + prova2 * peso2
 let media = total / (peso1+peso2)
 media = media.toFixed(2)
-console.log(media)
+console.log(media) 
+
+
+console.log(7/0) //infinity
+console.log("10"/2)      
